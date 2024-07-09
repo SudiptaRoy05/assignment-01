@@ -52,7 +52,7 @@ body {
     max-width: 1440px;
     height: 717px;
     margin: 0 auto;
-    background-image: url(../assets/Hero-bg.png);
+    background-image: url(./assets/Hero-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -488,7 +488,7 @@ body {
     width: 1140px;
     height: 219px;
     margin: 70px auto;
-    background-image: url(/assets/handshake.jpg);
+    background-image: url(./assets/handshake.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
