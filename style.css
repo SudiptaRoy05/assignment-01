@@ -495,14 +495,14 @@ body {
     padding: 64px 48px 64px 48px;
     border-radius: 16px;
 
-    background: rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), url(Email);
+    background: rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2);
 
 }
 
 .support-section-content {
     width: 1044px;
     height: 185px;
-    margin: 80px auto;
+    margin: 50px auto;
 
 }
 
