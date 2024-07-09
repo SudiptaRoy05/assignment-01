@@ -368,10 +368,117 @@ body {
     border-radius: 16px;
 }
 
-.inspiration-video .iVideo iframe{
+.inspiration-video .iVideo iframe {
     width: 1076px;
     height: 550px;
     border-radius: 16px;
 }
 
 /* inspiration section style end  */
+
+
+/* my-target section style start  */
+
+.my-target-section {
+    width: 1140px;
+    height: 460px;
+    margin: auto;
+}
+
+.my-target-heading {
+    width: 852px;
+    height: 113px;
+    margin: 48px auto;
+    /* border: 1px solid darkcyan; */
+}
+
+.my-target-heading h2 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.my-target-heading p {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    opacity: 0.7;
+}
+
+.bg-1 {
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.bg-2 {
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.bg-3 {
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+
+
+.my-target-container {
+    width: 1140px;
+    height: 299px;
+    gap: 25px;
+    display: flex;
+}
+
+.my-target-content {
+    width: 30%;
+    /* height: 299px; */
+}
+
+.my-target-content h3 {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.my-target-content {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.7;
+    padding: 40px;
+}
+
+.my-target-content img {
+    width: 40.56px;
+    /* height: 38.14px; */
+
+}
+
+.my-target-content a {
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+    text-decoration-line: underline;
+}
+
+/* my-target section style end  */
